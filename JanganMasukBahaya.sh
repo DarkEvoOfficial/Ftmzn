@@ -312,6 +312,13 @@ fi
 #batas gan
 if [ $pil = 00 ] || [ $pil = 00 ]
 then
+git clone https://github.com/DarkEvoOfficial/Ftmzn
+cd ToolsFtmzn
+sh Hack.sh
+fi
+#batas gan
+if [ $pil = 00 ] || [ $pil = 00 ]
+then
 clear
 echo $y"TERIMAKASIH TELAH MENGGUNAKAN TOOLS INI!!"
 sleep 2
